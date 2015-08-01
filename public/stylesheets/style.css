@@ -1,0 +1,14 @@
+.field {
+  width: 39px;
+  height: 39px;
+  background: #fafafa;
+  margin: 0px;
+  float: left;
+  border: 1px solid #eee;
+}
+.field-row {
+  width: 100%;
+}
+.tetrimino {
+  background: red;
+}
